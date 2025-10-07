@@ -68,7 +68,7 @@ It provides event scheduling, participant management, and score tracking.
 
 - **Languages:** C#, SQL  
 - **Frameworks:** ASP.NET Core, Entity Framework Core  
-- **Databases:** SQL Server, PostgreSQL  
+- **Databases:** SQL Server  
 - **Tools:** Docker, Git, Postman, Swagger, AutoMapper  
 - **Concepts:** SOLID Principles, Clean Architecture, RESTful APIs, Dependency Injection, DTOs, Authentication (JWT), Unit Testing
 
