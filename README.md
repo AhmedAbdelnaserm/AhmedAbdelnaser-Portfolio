@@ -31,7 +31,7 @@ Focused on building APIs to manage users, job listings, and applications efficie
 ### 🖼️ Intrn Project Screenshots
 
 #### 🧩 Swagger UI
-![Swagger 1](intrn/Intern Swagger 1.png)
+![Swagger 1] (https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern Swagger 1.png)
 ![Swagger 2](intrn/Intern Swagger 2.png)
 ![Swagger 3](intrn/Intern Swagger 3.png)
 ![Swagger 4](intrn/Intern Swagger 4.png)
