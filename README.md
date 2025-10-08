@@ -32,11 +32,17 @@ Focused on building APIs to manage users, job listings, and applications efficie
 
 #### 🧩 Swagger UI
 ![Swagger 1](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger-Auth.png)
+
 ![Swagger 1](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger1.png)
+
 ![Swagger 2](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger2.png)
+
 ![Swagger 3](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger3.png)
+
 ![Swagger 4](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger4.png)
+
 ![Swagger 5](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger5.png)
+
 ![Swagger 6](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger6.png)
 
 #### 🗄️ Database Diagram
@@ -91,6 +97,24 @@ It provides event scheduling, participant management, and score tracking.
 - Used **DTOs** and **AutoMapper** to simplify model mapping.  
 - Implemented **JWT authentication** for secure access control.  
 - Integrated **Swagger UI** for interactive API documentation.
+
+### 🖼️ Rally Project Screenshots
+
+#### 🧩 Swagger UI
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Swagger/Rally-Swagger-Auth.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Swagger/Rally-Swagger1.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Swagger/Rally-Swagger2.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Swagger/Rally-Swagger3.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Swagger/Rally-Swagger4.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Swagger/Rally-Swagger5.png)
+
+#### 🗄️ Database Diagram
+![DB Diagram](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/rally/Diagram/Rally-DB-Diagram.png)
 
 ---
 
