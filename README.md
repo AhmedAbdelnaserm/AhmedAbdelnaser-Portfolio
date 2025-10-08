@@ -31,15 +31,15 @@ Focused on building APIs to manage users, job listings, and applications efficie
 ### 🖼️ Intrn Project Screenshots
 
 #### 🧩 Swagger UI
-![Swagger 1] (https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern Swagger 1.png)
-![Swagger 2](intrn/Intern Swagger 2.png)
-![Swagger 3](intrn/Intern Swagger 3.png)
-![Swagger 4](intrn/Intern Swagger 4.png)
-![Swagger 5](intrn/Intern Swagger 5.png)
-![Swagger 6](intrn/Intern Swagger 6.png)
+![Swagger 1](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger1.png)
+![Swagger 2](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger2.png)
+![Swagger 3](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger3.png)
+![Swagger 4](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger4.png)
+![Swagger 5](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger5.png)
+![Swagger 6](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Intern-Swagger6.png)
 
 #### 🗄️ Database Diagram
-![DB Diagram](intrn/Diagram/Intern DB Diagram.png)
+![DB Diagram](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/intrn/Diagram/Intern-DB-Diagram.png)
 
 
 ---
