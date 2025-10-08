@@ -56,9 +56,24 @@ The platform empowers users to monitor their health and manage medical data secu
 **Highlights:**
 - Built modular APIs using **SOLID principles** and **clean architecture**.  
 - Used **DTOs** and **AutoMapper** to handle object mapping across layers.  
-- Deployed backend services using **Docker** containers.  
 - Implemented **Dependency Injection** for maintainable and scalable services.  
 - Optimized database queries and applied code-first migrations with **EF Core**.
+
+### 🖼️ Prevadu Project Screenshots
+
+#### 🧩 Swagger UI
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/prevadu/Swagger/Prevadu-Swagger-Auth.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/prevadu/Swagger/Prevadu-Swagger1.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/prevadu/Swagger/Prevadu-Swagger2.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/prevadu/Swagger/Prevadu-Swagger3.png)
+
+![Swagger](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/prevadu/Swagger/Prevadu-Swagger4.png)
+
+#### 🗄️ Database Diagram
+![DB Diagram](https://github.com/AhmedAbdelnaserm/AhmedAbdelnaser-Portfolio/blob/main/prevadu/Diagram/Prevadu-Diagram.png)
 
 ---
 
