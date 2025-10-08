@@ -28,11 +28,25 @@ Focused on building APIs to manage users, job listings, and applications efficie
 - Integrated **Swagger** for API documentation and testing.  
 - Applied **Dependency Injection** to maintain clean and testable code.
 
+### 🖼️ Intrn Project Screenshots
+
+#### 🧩 Swagger UI
+![Swagger 1](intrn/Intern Swagger 1.png)
+![Swagger 2](intrn/Intern Swagger 2.png)
+![Swagger 3](intrn/Intern Swagger 3.png)
+![Swagger 4](intrn/Intern Swagger 4.png)
+![Swagger 5](intrn/Intern Swagger 5.png)
+![Swagger 6](intrn/Intern Swagger 6.png)
+
+#### 🗄️ Database Diagram
+![DB Diagram](intrn/Diagram/Intern DB Diagram.png)
+
+
 ---
 
 ### 🩺 **Prevadu**
 **Role:** Backend Developer  
-**Tech Stack:** ASP.NET Core 8, EF Core, SQL Server, AutoMapper, Docker, Swagger, JWT Authentication, Dependency Injection  
+**Tech Stack:** ASP.NET Core 8, EF Core, SQL Server, AutoMapper, Swagger, JWT Authentication, Dependency Injection  
 
 **Description:**  
 Prevadu helps individuals take charge of their health by combining advanced medical screening with personalized care.  
@@ -100,7 +114,6 @@ Program.cs
 ## 📫 Contact
 
 - **LinkedIn:** [Ahmed Abdelnaser Mohammed](https://www.linkedin.com/in/ahmed-abdelnaser-409bb7243)  
-- **GitHub:** [AhmedAbdelnaserm](https://github.com/AhmedAbdelnaserm)  
 - **Email:** aahmedabdelnaser2000@gmail.com  
 
 ---
